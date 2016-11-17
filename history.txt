@@ -578,3 +578,75 @@
   578  ls
   579  rm history.txt 
   580  history > history.txt
+  581  git add history.txt
+  582  ls
+  583  cd ..
+  584  ls
+  585  ls- las
+  586  ls -l
+  587  ls -la
+  588  cd .config/
+  589  ls
+  590  cd .config/
+  591  ls
+  592  ls -las
+  593  chmod 755 .config
+  594  cd
+  595  cd myopenstack/
+  596  git add history.txt 
+  597  git status
+  598  git commit -m 'Contains my CLI history'
+  599  git remote add origin git@github.com:ken-hughes/myopenstak.git
+  600  git push -u origin master
+  601  git remote add origin git@github.com:ken-hughes/myopenstack.git
+  602  git remote delete origin git@github.com:ken-hughes/myopenstak.git
+  603  git remote remote origin git@github.com:ken-hughes/myopenstak.git
+  604  git remote remote git@github.com:ken-hughes/myopenstak.git
+  605  git remote remove origin git@github.com:ken-hughes/myopenstak.git
+  606  git remote remove git@github.com:ken-hughes/myopenstak.git
+  607  git ?
+  608  git --help
+  609  git status
+  610  ls
+  611  git remote
+  612  git remote origin
+  613  get remote remove origin
+  614  git remote remove origin
+  615  git remote remove origin git@github.com:ken-hughes/myopenstack.git
+  616  git remote add origin git@github.com:ken-hughes/myopenstack.git
+  617  git push -u origin master
+  618  ls
+  619  ls -las
+  620  cd .git
+  621  ls
+  622  cd ..
+  623  ls
+  624  cd ..
+  625  ls
+  626  cp *.rc ./myopenstack/
+  627  cd myopenstack/
+  628  ls
+  629  git add *.rc
+  630  git push -u origin master
+  631  git commit 
+  632  ls
+  633  git add admin.rc
+  634  git add alice.c
+  635  git add alice.rc
+  636  git add bob.rc
+  637  git add chester.rc
+  638  git add doris.rc
+  639  git add unset.rc
+  640  git status
+  641  git commit -m 'adding .rc files'
+  642  git push -u origin master
+  643  ls
+  644  ls -ltrs
+  645  cd ..
+  646  ls
+  647  ls -las
+  648  cd myopenstack/
+  649  ls
+  650  history > history.txt
+  651  rm history.txt 
+  652  history > history.txt
